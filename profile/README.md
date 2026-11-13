@@ -17,7 +17,7 @@ Keystar Studio is an independent game development studio dedicated to building s
 * **Tools & DevOps:** Docker / Kubernetes / CI/CD for Game Builds
 
 ### 📫 Connect With Us
-* 📧 **Contact:** [aimmoschool@gmail.com](mailto:aimmoschool@gmail.com)
+* 📧 **Contact:** [owner](mailto:aimmoschool@gmail.com)
 
 ---
 *Stay tuned for upcoming devlogs, open-source tools, and playtest announcements!*
